@@ -1,0 +1,40 @@
+body {
+  background-color: #000000;
+}
+
+h1 {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f00), color-stop(0.15, #f20), color-stop(0.3, #22f), color-stop(0.45, #f20), color-stop(0.6, #f00),color-stop(0.75, #22f), color-stop(0.9, #f00), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-align: center;
+  position:absolute;
+  left:200px;
+  top:75px;
+  width:auto;
+  height:210px;
+  font-family: Times;
+}
+
+#terrButton1{
+  position: absolute;
+  left:300px;
+  top:75px;
+  width:210px;
+  height:210px;
+}
+
+#terrButton2{
+  position: absolute;
+  left:300px;
+  top:100px;
+  width:210px;
+  height:210px;
+}
+
+#gual{
+  text-align: center;
+  position: relative;
+  top: 250px;
+}

@@ -1,0 +1,17 @@
+body{
+  background-color: green;
+}
+h1{
+  position: relative;
+  left: 400px;
+}
+h2{
+  position: relative;
+  left: 550px;
+}
+#yes{
+  position: relative;
+  max-height: 120px;
+  max-width: 100px;
+  left: 512.5px;
+}
